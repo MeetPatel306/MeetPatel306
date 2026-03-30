@@ -16,7 +16,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 B.Tech CSE (AI-ML) Student at **LJ University**  
+- 🎓 B.Tech CSE Student at **LJ University**  
 - 💻 MERN Stack Developer  
 - ☕ Strong in **JavaScript, Python**  
 - 🤖 **AI & Machine Learning Enthusiast**  
