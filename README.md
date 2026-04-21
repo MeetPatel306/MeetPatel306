@@ -1,48 +1,63 @@
-<h1 align="center">Hi 👋, I'm Meet Patel</h1>
-<h3 align="center">Computer Science Engineering Student | MERN Developer | Python | AI Enthusiast</h3>
+![GitHub Banner](https://camo.githubusercontent.com/f9e02e7b78419b8a446932b9ea4e38368e70324cad524a666ed7e9e39f58c8a1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39302f37302f33322f39303730333234636466633037633638643630656564306333396537373537332e676966)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/meet-patel-36b687286" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:meetpatel30506@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/MeetPatel306" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student;MERN+Stack+Developer;AI+%26+ML+Learner;Building+Real+World+Projects" />
+</p>
+
+# Hi 👋 Meeet Patel  
+
+🎓 B.Tech IT Student | 💻 Aspiring Full-Stack Developer | 🤖 AI/ML Enthusiast  
+
+I am a motivated IT student focused on building real-world applications and strengthening my problem-solving skills. I enjoy working with modern web technologies and exploring Artificial Intelligence & Machine Learning using Python. I believe in continuous learning, writing clean code, and building practical solutions.
+
+---
+
+## 🚀 Currently Working On  
+
+- 🌱 Learning MERN Stack (MongoDB, Express, React, Node.js)  
+- 🤖 Exploring AI & Machine Learning with Python  
+- 🛠 Building portfolio-ready full-stack projects  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="left">
+<a href="https://www.linkedin.com/in/meet-patel-36b687286">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://www.instagram.com/meetpatel_306">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me  
-- 🎓 B.Tech CSE Student at **LJ University**  
-- 💻 MERN Stack Developer  
-- ☕ Strong in **JavaScript, Python**  
-- 🤖 **AI & Machine Learning Enthusiast**  
-- 🚀 Passionate about building real-world impactful projects  
-- 📌 Actively seeking **Internship Opportunities**
+## 🧰 Languages & Tools  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,java,git,github,vscode,tensorflow" />
+</p>
+
+---
+<!-- 
+## 📊 GitHub Performance  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parthu0030&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthu0030&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
+## 🔥 Contribution Streak  
 
-**Languages:**  
-Java | JavaScript | Python  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=parthu0030&theme=tokyonight&cache_seconds=1800"/>
+</p>
 
-**Frontend:**  
-React.js | HTML5 | CSS3 | Tailwind CSS  
-
-**Backend:**  
-Node.js | Express.js  
-
-**Database & Cloud:**  
-MongoDB | Sql  
-
-**Tools:**  
-Git | GitHub 
-
----
+--- -->
 
 ## 📂 Featured Projects  
 
@@ -62,13 +77,10 @@ Git | GitHub
 -Optimized backend queries, achieving sub-500 ms response times.
 
 
----
+## ⚡ About Me  
 
-## 📫 Contact Me  
-- 📧 Email: meetpatel30506@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/meet-patel-36b687286  
-- 🌐 GitHub: https://github.com/MeetPatel306  
+I enjoy learning new technologies and adapting quickly to modern development trends while maintaining strong programming fundamentals. My goal is to become a skilled full-stack developer and contribute to impactful software projects.
 
 ---
 
-⭐ If you like my projects, consider giving them a star!
+⭐ Feel free to explore my repositories and connect with me!
