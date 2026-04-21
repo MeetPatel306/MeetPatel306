@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student;MERN+Stack+Developer;AI+%26+ML+Learner;Building+Real+World+Projects" />
 </p>
 
-# Hi 👋 Meeet Patel  
+# Hi 👋 I'm Meet Patel  
 
 🎓 B.Tech IT Student | 💻 Aspiring Full-Stack Developer | 🤖 AI/ML Enthusiast  
 
